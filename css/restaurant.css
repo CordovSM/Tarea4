@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css?family=Italiana|Italianno|Wire+One');
+
+.fondo1{
+	background: url(../img/fondo1.jpg);
+}
+
+.line{
+	background: #4d3900;
+	height: 10px;
+}
+
+
+.linea{
+	background: #4d3900;
+	height: 25px;
+}
+
+.fondoa{
+	background: #fff9e6;
+	border-radius: 1rem;
+	padding: 3%;
+}
+
+.fondoa>h1{
+	font-family: 'Italiana', serif;
+	text-align: center;
+}
+
+.txt1{
+	font-family: 'Italianno', cursive;
+	text-align: center;
+}
+
+.fondoa>p{
+	text-align: justify;
+}
+
+.fondo2{
+	background: url(../img/pizarra.jpg);
+}
+
+.menufont{
+	font-family: 'Wire One', sans-serif;
+	letter-spacing: 3pt;
+	color: white;
+}
+
+.col-lg-6>h1{
+	font-family: 'Italiana', serif;
+	text-align: center;
+}
+
+h5{
+	font-family: 'Italiana', serif;
+	text-align: center;
+}
+hr{
+	background: white;
+}
+
+.txt2{
+	font-family: 'Italianno', cursive;
+}
+
+.lineb{
+	background: black;
+	height: 25px;
+}
+
+.fondo3{
+	background: url(../img/fondorojo.jpg);
+}
+
+
+.fondo4{
+	background: url(../img/fondo3.jpg);
+}
+
+.fondob{
+	background: #fff;
+	border-radius: 1rem;
+	padding: 4%;
+}
+
+.fondob>h1{
+	font-family: 'Italiana', serif;
+}
+
+.columna>h1{
+	font-family: 'Italiana', serif;
+	text-align: center;
+	color: white;
+}
+
+.columna>h2{
+	font-family: 'Italianno', cursive;
+	text-align: center;
+	color: white;
+}
+
+.linec{
+	background: #802000;
+	height: 2rem;
+}
+
+.color{
+	background: #fff9e6;
+}
+
+.centro{
+	display: block;
+	margin: auto;
+	padding-top: 1rem;
+}
+
+.txtfinal{
+	text-align: center;
+	font-weight: lighter;
+	margin: 0;
+}
